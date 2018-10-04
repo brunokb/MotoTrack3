@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "543281975545",
+    "firebase_url": "https://mototrack3-5f746.firebaseio.com",
+    "project_id": "mototrack3-5f746",
+    "storage_bucket": "mototrack3-5f746.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543281975545:android:4c2f131ffd89dc1d",
+        "android_client_info": {
+          "package_name": "com.example.brunosilva.mototrack3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543281975545-ke9po3lve2ut1nbih4tvgo8orv4stmiv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.brunosilva.mototrack3",
+            "certificate_hash": "401de9e57b3b5048a7ce50b789313ec0f371378f"
+          }
+        },
+        {
+          "client_id": "543281975545-s2pr6kf81ctpna81c0r2bl2frm3sdv1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm43BxeWVUYaf5qckbnvKA6_14nPUOccQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543281975545-s2pr6kf81ctpna81c0r2bl2frm3sdv1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
